@@ -1,0 +1,14 @@
+Lab1 Exercises : 
+- printf scanf
+- arithmetic operator: + - * (multiplication) / (division) % modulo
+
+Lab2 Exercises:
+- if statement
+- if else statement
+- relational operators <, <=, >, >=, == (equality), != (inequality)
+- logical operator: && (logical and), || (logical or), ! (logical not)
+- De Morgan's laws 
+  !(A && B) is equivalent to !A || !B
+  !(A || B) is equivalent to !A && !B
+- sqrt function from math library
+- 1/2 is 0 || 1.0/2.0 is 0.5
