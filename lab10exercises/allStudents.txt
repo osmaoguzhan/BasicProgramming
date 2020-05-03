@@ -1,0 +1,5 @@
+Name: Oguzhan Surname :Osma Year of Birth: 1996 Year of Study: 3 Total ECTS: 4 Average of Grades: 5.00
+Name: 1 Surname :1 Year of Birth: 1 Year of Study: 1 Total ECTS: 1 Average of Grades: 1.00
+Name: 1 Surname :1 Year of Birth: 1 Year of Study: 1 Total ECTS: 1 Average of Grades: 1.00
+Name: 1 Surname :1 Year of Birth: 1 Year of Study: 1 Total ECTS: 11 Average of Grades: 1.00
+Name: 1 Surname :1 Year of Birth: 1 Year of Study: 1 Total ECTS: 11 Average of Grades: 1.00
